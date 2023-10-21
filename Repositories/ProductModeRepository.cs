@@ -1,8 +1,4 @@
-﻿using supermarket.Models.Interfaces;
-using supermarket.Models;
-using System.Data;
-
-sing Microsoft.Data.SqlClient;
+﻿using Microsoft.Data.SqlClient;
 using supermarket.Models;
 using supermarket.Models.Interfaces;
 using System;
