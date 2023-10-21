@@ -9,4 +9,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="Views\supermarket.csproj" />
+    <None Include="Views\supermarket.csproj.user" />
+  </ItemGroup>
+
 </Project>
